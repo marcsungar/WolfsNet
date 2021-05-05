@@ -7,7 +7,14 @@
 			"price":23,
 			"type":1
 		}, 
-
+		{
+			"title":"Olla tapa terracota",
+			"id":"1",
+			"image":"https://testback.apiabalit.com/img/1.png",
+			"description":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+			"price":23,
+			"type":1
+		}, 
 		{
 			"title":"Arrocera oster",
 			"id":"2",
