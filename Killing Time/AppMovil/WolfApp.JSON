@@ -1,0 +1,20 @@
+{"users":[ 
+		{
+			"title":"Olla tapa terracota",
+			"id":"1",
+			"image":"https://testback.apiabalit.com/img/1.png",
+			"description":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+			"price":23,
+			"type":1
+		}, 
+
+		{
+			"title":"Arrocera oster",
+			"id":"2",
+			"image":"https://testback.apiabalit.com/img/2.png",
+			"description":"lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+			"price":32,
+			"type":1
+		}
+	]
+}
