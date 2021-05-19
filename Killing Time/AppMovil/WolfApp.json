@@ -1,0 +1,139 @@
+{
+  "killingtime": [
+    {
+      "version": "1.0",
+      "personajes": [
+        {
+          "nombre": "Pepe",
+          "vida": 100,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "price": 230,
+          "velocidad": 5,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "origen": "Desconocido"
+        },
+        {
+          "nombre": "Hector",
+          "vida": 150,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "price": 300,
+          "velocidad": 2,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "origen": "Dubai"
+        }
+      ],
+      "zombies": [
+        {
+          "tipo": "Hector",
+          "vida": 100,
+          "damage": 50,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "velocidad": 5,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "nivel": 3
+        },
+        {
+          "tipo": "Hector",
+          "vida": 300,
+          "damage": 50,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "velocidad": 1,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "nivel": 10
+        }
+      ],
+      "armas": [
+        {
+          "nombre": "Mini uzi",
+          "damage": 150,
+          "cargador": 50,
+          "municion": 120,
+          "price": 350,
+          "peso": 3,
+          "image": "https://testback.apiabalit.com/img/1.png"
+        },
+        {
+          "nombre": "Pistola",
+          "damage": 150,
+          "cargador": 20,
+          "municion": 150,
+          "price": 300,
+          "peso": 2,
+          "image": "https://testback.apiabalit.com/img/1.png"
+        }
+      ]
+    },
+    {
+      "version": "0.9",
+      "personajes": [
+        {
+          "nombre": "Pepe",
+          "vida": 100,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "price": 230,
+          "velocidad": 5,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "origen": "Desconocido"
+        },
+        {
+          "nombre": "Pepe",
+          "vida": 100,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "price": 230,
+          "velocidad": 5,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "origen": "Desconocido"
+        },
+        {
+          "nombre": "Hector",
+          "vida": 150,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "price": 300,
+          "velocidad": 2,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "origen": "Dubai"
+        }
+      ],
+      "zombies": [
+        {
+          "tipo": "Hector",
+          "vida": 100,
+          "damage": 50,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "velocidad": 5,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "nivel": 3
+        },
+        {
+          "tipo": "Hector",
+          "vida": 300,
+          "damage": 50,
+          "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+          "velocidad": 1,
+          "image": "https://testback.apiabalit.com/img/1.png",
+          "nivel": 10
+        }
+      ],
+      "armas": [
+        {
+          "nombre": "Mini uzi",
+          "damage": 150,
+          "cargador": 50,
+          "municion": 120,
+          "price": 350,
+          "peso": 3,
+          "image": "https://testback.apiabalit.com/img/1.png"
+        },
+        {
+          "nombre": "Pistola",
+          "damage": 150,
+          "cargador": 20,
+          "municion": 150,
+          "price": 300,
+          "peso": 2,
+          "image": "https://testback.apiabalit.com/img/1.png"
+        }
+      ]
+    }
+  ]
+}
