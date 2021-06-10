@@ -9,7 +9,7 @@
           "vida": 100,
           "description": "Un padre de familia con un nnombre estupido intentará salvar a la humanidad, o no, quizas se pilla una birra y se queda tan pancho.",
           "price": 0,
-          "velocidad": 15,
+          "velocidad": 5,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Personajes/personaje1.png",
           "origen": "USA"
         },
@@ -19,7 +19,7 @@
           "vida": 200,
           "description": "No te dejes subestimar por su nombre tan cuqui, es The rock en persona, bueno en pantalla, pero lo que aguanta este tio es de locos.",
           "price": 150,
-          "velocidad": 12,
+          "velocidad": 4,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Personajes/personaje2.png",
           "origen": "Norway"
         },
@@ -29,7 +29,7 @@
           "vida": 130,
           "description": "Una de las primeras fangirls de Justin Bieber, si te acuerdas, podian sacarte un ojo con la suñas de metro y medio, mucho cuidadito con ella.",
           "price": 200,
-          "velocidad": 16,
+          "velocidad": 6,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.1/Personajes/personaje3.png",
           "origen": "Canada"
         },
@@ -39,7 +39,7 @@
           "vida": 80,
           "description": "Sí, la mujer más problematica de telebasura está aqui, por temas de derechos no puede estar su foto, pero imaginate lo que nos podria hacer si la usamos, nos mata, como lo hace por su hija.",
           "price": 130,
-          "velocidad": 17,
+          "velocidad": 7,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.1/Personajes/personaje4.png",
           "origen": "USA"
         },
@@ -49,7 +49,7 @@
           "vida": 150,
           "description": "Este tio, te coje todas las sentencias sql y te las estampa en la cara, no se, mucho sql, yo mejor me pego un tiro, como haran los zombies.",
           "price": 250,
-          "velocidad": 18,
+          "velocidad": 5,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.1/Personajes/personaje5.png",
           "origen": "Sant Andreu"
         }
@@ -71,7 +71,7 @@
           "vida": 125,
           "damage": 5,
           "description": "Un Zombie tan duro como un nokia antiguo",
-          "velocidad": 1,
+          "velocidad": 2,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Zombies/zombie2Icon.png",
           "nivel": 2
         },
@@ -81,7 +81,7 @@
           "vida": 75,
           "damage": 20,
           "description": "Si el zombie cani te basila, tu te caia y lo asimila",
-          "velocidad": 2,
+          "velocidad": 1,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Zombies/zombie3Icon.png",
           "nivel": 3
         }
@@ -153,7 +153,7 @@
           "vida": 100,
           "description": "Un padre de familia con un nnombre estupido intentará salvar a la humanidad, o no, quizas se pilla una birra y se queda tan pancho.",
           "price": 0,
-          "velocidad": 15,
+          "velocidad": 5,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Personajes/personaje1.png",
           "origen": "USA"
         },
@@ -163,7 +163,7 @@
           "vida": 200,
           "description": "No te dejes subestimar por su nombre tan cuqui, es The rock en persona, bueno en pantalla, pero lo que aguanta este tio es de locos.",
           "price": 150,
-          "velocidad": 12,
+          "velocidad": 4,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Personajes/personaje2.png",
           "origen": "Norway"
         }
@@ -175,7 +175,7 @@
           "vida": 50,
           "damage": 10,
           "description": "Un zombie de lo mas corriente",
-          "velocidad": 2,
+          "velocidad": 1,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Zombies/zombie1Icon.png",
           "nivel": 1
         },
@@ -183,7 +183,7 @@
           "version": "1.0",
           "tipo": "Nokia",
           "vida": 125,
-          "damage": 5,
+          "damage": 2,
           "description": "Un Zombie tan duro como un nokia antiguo",
           "velocidad": 1,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Zombies/zombie2Icon.png",
@@ -195,7 +195,7 @@
           "vida": 75,
           "damage": 20,
           "description": "Si el zombie cani te basila, tu te caia y lo asimila",
-          "velocidad": 2,
+          "velocidad": 1,
           "image": "https://raw.githubusercontent.com/marcsungar/WolfsNet/main/Killing%20Time/1.0/Zombies/zombie3Icon.png",
           "nivel": 3
         }
